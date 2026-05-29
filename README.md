@@ -41,11 +41,11 @@ A privacy-focused desktop application that provides free proxy-based VPN functio
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/free-vpn-app.git
-cd free-vpn-app
+git clone https://github.com/HarshRajGithub/Neo-VPN.git
+cd Neo-VPN
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the application
-python vpn_app.py
+python main.py
