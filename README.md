@@ -6,7 +6,7 @@
 
 A privacy-focused desktop application that provides free proxy-based VPN functionality with a built-in web browser. Fetch, test, and connect to free proxies from multiple sources, with all traffic routed through the selected proxy.
 
-![VPN App Screenshot](screenshot.png)
+
 
 ## Features
 
